@@ -5,8 +5,14 @@ namespace App\Console;
 use Illuminate\Console\Scheduling\Schedule;
 use Illuminate\Foundation\Console\Kernel as ConsoleKernel;
 
+//data
+
+
+
 class Kernel extends ConsoleKernel
 {
+
+//Testing PHP 'project as a CLONE   
     /**
      * The Artisan commands provided by your application.
      *
